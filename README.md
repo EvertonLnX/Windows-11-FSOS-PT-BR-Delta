@@ -1,5 +1,5 @@
 # Windows-11-FSOS-PT-BR-Delta-
-Versão traduzida FSOS 11, Windows 11 26100.3775 Otimizado para jogos.
+Versão traduzida [FSOS 11](https://discord.gg/e7yNZcaX8E), Windows 11 26100.3775 Otimizado para jogos.
 Considere nos ajudar com qualquer valor via http://livepix.gg/evertonlnx - Agradeço a colaboração e motivação.
 Seguro e protegido, adequado para jogos, multitarefas e trabalho. Também protege a funcionalidade de todos os aplicativos e componentes importantes.
 - Windows 11 build 26100.3775 compatível com todos os aplicativos.
