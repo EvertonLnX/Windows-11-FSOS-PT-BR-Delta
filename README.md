@@ -19,7 +19,10 @@ Seguro e protegido, adequado para jogos, multitarefas e trabalho. Também proteg
 - Suporte a USB, Bluetooth, Câmera, WLAN e Impressão mantido.
 - Ideal para desktops, laptops e estações de trabalho.
 - https://www.youtube.com/watch?v=EWiisHGsxR4
-https://github.com/user-attachments/assets/b2685593-8233-4956-b1d2-9a7096a1fe00
+
+
+https://github.com/user-attachments/assets/ac96088c-7d8a-4cec-bebc-fde45702f479
+
 
 **COMPONENTES REMOVIDOS**
 ```Ferramentas de Acessibilidade (Facilidade de Acesso)
