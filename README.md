@@ -4,7 +4,7 @@
 Versão traduzida [FSOS 11](https://discord.gg/e7yNZcaX8E), Windows 11 26100.3775 Otimizado para jogo - **Sem Defender e Com Wallpaper Delta Force**.
 <img width="1366" height="768" alt="unknown_2025 07 11-21 06" src="https://github.com/user-attachments/assets/bba6f44f-53e3-494b-af3b-d16d2f921624" />
 
-**Se os menus com Configuraç~eos ficaram em Inglês, isso pe bug do Windows ao traduzir, solução em** [Issues](https://github.com/EvertonLnX/Windows-11-FSOS-PT-BR-Delta/issues)
+**Se os menus em Configurações ficaram em Inglês, isso pe bug do Windows ao traduzir, solução em** [Issues](https://github.com/EvertonLnX/Windows-11-FSOS-PT-BR-Delta/issues)
 
 Seguro e protegido, adequado para jogos, multitarefas e trabalho. Também protege a funcionalidade de todos os aplicativos e componentes importantes.
 - Windows 11 build 26100.3775 compatível com todos os aplicativos.
