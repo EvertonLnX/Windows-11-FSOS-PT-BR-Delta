@@ -1,5 +1,5 @@
 # Windows-11-FSOS-PT-BR-Delta
-**Considere nos ajudar com qualquer valor via http://livepix.gg/evertonlnx - Agradeço a colaboração e motivação**.
+**Considere nos ajudar com qualquer valor via http://livepix.gg/evertonlnx - Agradeço a colaboração e motivação**. - Doe e peça alguma versão específica.
 
 Versão traduzida [FSOS 11](https://discord.gg/e7yNZcaX8E), Windows 11 26100.3775 Otimizado para jogo - **Sem Defender e Com Wallpaper Delta Force**.
 <img width="1366" height="768" alt="unknown_2025 07 11-21 06" src="https://github.com/user-attachments/assets/bba6f44f-53e3-494b-af3b-d16d2f921624" />
